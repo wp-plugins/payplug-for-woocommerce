@@ -14,15 +14,15 @@ With [PayPlug](https://www.payplug.com/?origin=wpwc "PayPlug"), online payment h
 
 ### Benefits ###
 Our modern and intuitive solution allows you to improve your conversion rate with our functions and ergonomics specifically designed for e-commerce.  Thanks to PayPlug, you can simplify your online payments and no longer lose out on sales:
--Quick payment without registration
--Modern and sleek design
--Automatic detection of card type
+*Quick payment without registration
+*Modern and sleek design
+*Automatic detection of card type
 
 Keep your customers loyal to your brand from the very outset with our 100% customisable payment page. 
--Display your own logo, font and colours
--Choose your own background photo
--Responsive to mobiles and tablets
--Enrich your brand identity
+*Display your own logo, font and colours
+*Choose your own background photo
+*Responsive to mobiles and tablets
+*Enrich your brand identity
 
 ### Easy to use ###
 Retailers can register in just one minute, configure our module in only a few clicks, and begin to accept card payments immediately. No commitment or merchant account required. Our interface is extremely intuitive and has been designed to simplify the administration of your payments while integrating essential features that allow you to develop your business with confidence.
@@ -30,11 +30,11 @@ Retailers can register in just one minute, configure our module in only a few cl
 ### Simple and transparent rates ###
 With the PayPlug plugin for WooCommerce, you only pay for what you need. Our commission goes as low as 0.8 % +  0.25 € - without any hidden costs. To put it simply, this is the most interesting offer on the market. 
 Our rates and volume discounts are calibrated according to your sales volumes and do not include any hidden costs. Our e-commerce payment solution has:
--No installation costs
--No commitment
--No subscription 
--No refund costs
--No withdrawal fees
+*No installation costs
+*No commitment
+*No subscription 
+*No refund costs
+*No withdrawal fees
 
 PayPlug rates - [Find out more](https://www.payplug.com/pricing/?origin=wpwc "Find out more")
 
@@ -45,12 +45,12 @@ All transactions are carried out on payment pages secured by HTTPS. Card numbers
 
 
 ### PayPlug for WooCommerce - a few features ###
--Cards accepted: Debit Card, Visa, MasterCard
--Detachable 3-D Secure to protect you against fraud
--Automatic order status updates
--Ergonomic interface for tracking and managing transactions
--Use of the PayPlug mobile app for physical receipts
--Access to an experienced customer support team based in France
+*Cards accepted: Debit Card, Visa, MasterCard
+*Detachable 3-D Secure to protect you against fraud
+*Automatic order status updates
+*Ergonomic interface for tracking and managing transactions
+*Use of the PayPlug mobile app for physical receipts
+*Access to an experienced customer support team based in France
 
 Why wait any longer? Create your [free account](https://www.payplug.com/portal2/signup/?origin=wpwc "free account") NOW on PayPlug 
 
@@ -61,15 +61,15 @@ Avec [PayPlug](https://www.payplug.com/fr/?origin=wpwc "PayPlug"), le paiement e
 
 ### Avantages ###
 Notre solution moderne et intuitive vous permet d’améliorer votre taux de conversion grâce à des fonctionnalités et une ergonomie pensées pour le e-commerce.  Grâce à PayPlug ne perdez plus de ventes et simplifiez vos règlements en ligne :
-•	Paiement rapide sans inscription
-•	Design moderne et épuré
-•	Détection automatique du type de carte
+*Paiement rapide sans inscription
+*Design moderne et épuré
+*Détection automatique du type de carte
 
 Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable:
-•	Affichez votre logo, votre police et vos couleurs
-•	Mettez la photo de fond qui vous convient
-•	Responsive pour mobiles et tablettes
-•	Marquez l’esprit de vos clients
+*Affichez votre logo, votre police et vos couleurs
+*Mettez la photo de fond qui vous convient
+*Responsive pour mobiles et tablettes
+*Marquez l’esprit de vos clients
 
 
 ### Simplicité d’utilisation ###
@@ -78,13 +78,13 @@ Marchands, inscrivez-vous en 1 minute, configurez notre module en quelques clics
 ### Des tarifs simples et transparents ###
 Avec le module PayPlug pour WooCommerce, ne payez que ce que vous devez ! Nos commissions descendent jusqu’à 0,8% + 0,25€, sans frais cachés. C’est tout simplement l’offre la plus intéressante du marché. 
 Nos tarifs, dégressifs, sont calibrés selon vos volumes de ventes et ne comprennent aucun frais cachés. Notre solution de paiement pour l’e-commerce est :
--Sans frais d’installation
--Sans engagement
--Sans abonnement 
--Sans frais de remboursement
--Sans frais de retrait sur les fonds
+*Sans frais d’installation
+*Sans engagement
+*Sans abonnement 
+*Sans frais de remboursement
+*Sans frais de retrait sur les fonds
 
-Découvrez [les tarifs] (https://www.payplug.com/fr/tarifs/?origin=wpwc "les tarifs") de Payplug
+Découvrez [les tarifs](https://www.payplug.com/fr/tarifs/?origin=wpwc "les tarifs") de Payplug
 
 ### Sécurité ###
 Chez PayPlug, notre mission est de vous permettre de vous concentrer pleinement sur le développement de votre activité e-commerce en retirant les contraintes liées aux paiements. 
@@ -93,12 +93,12 @@ Toutes les transactions sont effectuées sur des pages de paiement sécurisées 
 
 
 ### Quelques fonctionnalités PayPlug pour WooCommerce ###
-• Cartes acceptées : CB, Visa, MasterCard
-• 3D Secure débrayable pour vous protéger contre la fraude
-• Mise à jour automatique du statut des commandes
-• Interface ergonomique de suivi et de gestion des transactions
-• Utilisez l’appli mobile Payplug pour les encaissements physiques
-• Un support client disponible et compétent basé en France
+*Cartes acceptées : CB, Visa, MasterCard
+*3D Secure débrayable pour vous protéger contre la fraude
+*Mise à jour automatique du statut des commandes
+*Interface ergonomique de suivi et de gestion des transactions
+*Utilisez l’appli mobile Payplug pour les encaissements physiques
+*Un support client disponible et compétent basé en France
 
 N’attendez plus ! Crééz [votre compte](https://www.payplug.com/portal2/signup/?origin=wpwc "votre compte") dès maintenant gratuitement sur PayPlug 
 
