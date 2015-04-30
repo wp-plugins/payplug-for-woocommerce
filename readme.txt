@@ -16,9 +16,7 @@ Accept all credit cards with PayPlug on your WooCommerce site via this secure Wo
 Our modern and intuitive solution allows you to improve your conversion rate with our functions and ergonomics specifically designed for e-commerce.  Thanks to PayPlug, you can simplify your online payments and no longer lose out on sales:
 
 *Quick payment without registration.
-
 *Modern and sleek design.
-
 *Automatic detection of card type.
 
 Keep your customers loyal to your brand from the very outset with our 100% customisable payment page. 
@@ -108,14 +106,14 @@ N’attendez plus ! Crééz [votre compte](https://www.payplug.com/portal2/signu
 
 
 == Installation ==
->English 
+#English#
 1. Create a [free PayPlug account](http://www.payplug.com/portal2/signup/?origin=wpwc "free PayPlug account")
 2. Install the plugin via FTP or the Wordpress manager
 3. Activate the plugin through the 'Plugins' menu in WordPress
 4. Go to the Woocommerce settings and to the Payment Gateways tab
 5. Click on PayPlug and set your PayPlug login and password
 
->Français
+#Français#
 1. Crééz gratuitement [compte PayPlug](http://www.payplug.com/portal2/signup/?origin=wpwc "compte PayPlug")
 2. Installez le module depuis votre back office WordPress ou via votre FTP
 3. Activez le module dans la section 'Extension' de votre back office WordPress
