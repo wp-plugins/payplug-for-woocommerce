@@ -1,0 +1,174 @@
+# Copyright (C) 2013 WooCommerce PayPlug
+# This file is distributed under the same license as the WooCommerce PayPlug package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce PayPlug 1.3.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-payplug\n"
+"POT-Creation-Date: 2013-11-05 01:32:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-11 15:24+0100\n"
+"Last-Translator: Boris Colombier <bc@wba.fr>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.5\n"
+"Language: fr_FR\n"
+
+msgid "The WooCommerce PayPlug Gateway requires the latest version of <a href=\"http://wordpress.org/extend/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> to work!"
+msgstr "La passerelle de paiement PayPlug pour WooCommerce nécessite la dernière version de <a href=\"http://wordpress.org/extend/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> pour fonctionner !"
+
+msgid "PayPlug"
+msgstr "PayPlug"
+
+msgid "PayPlug lets users pay with their bank card via a secure interface."
+msgstr "PayPlug permet aux utilisateurs de payer avec leur carte bancaire via une interface sécurisé"
+
+msgid "Enable/Disable"
+msgstr "Activer / Désactiver"
+
+msgid "Enable PayPlug"
+msgstr "Activer PayPlug"
+
+msgid "NB: This payment gateway can only be enabled if the currency used by the store is the euro."
+msgstr "NB : Cette passerelle de paiement ne peut être active que si la devise de la boutique est en euros."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "This field defines the title seen by the user upon payment."
+msgstr "Ce champ permet de définir le titre que verra l'utilisateur lors du paiement."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "This field defines the description seen by the user upon payment."
+msgstr "Ce champ permet de définir la description que verra l'utilisteur lors du paiement."
+
+msgid "Make secure payments using your bank card with PayPlug."
+msgstr "Payer avec votre carte bancaire en toute sécurité via PayPlug"
+
+msgid "Settings for the PayPlug configuration page"
+msgstr "Paramètres de la page de configuration de PayPlug"
+
+msgid "Please paste your PayPlug settings in this field."
+msgstr "Veuillez coller vos paramètres PayPlug dans ce champ."
+
+msgid "You can see this information on %syour PayPlug%s Configuration page by entering your PayPlug email address and password."
+msgstr "Vous pouvez obtenir ces informations sur %svotre page de Configuration PayPlug%s en utilisant votre email et votre mot de passe PayPlug"
+
+msgid "Gateway testing"
+msgstr "Test de la passerelle"
+
+msgid "Debug logging"
+msgstr "Log de debug"
+
+msgid "Enable logging"
+msgstr "Activer les logs"
+
+msgid "PayPlug logging is located in <code>wp-content/plugins/woocommerce/logs/payplug.txt</code>"
+msgstr "Les logs PayPlug se trouvent dans <code>wp-content/plugins/woocommerce/logs/payplug.txt</code>"
+
+msgid "PayPlug payment pending"
+msgstr "En attente du paiement PayPlug"
+
+msgid "Payment successfully completed"
+msgstr "Paiement complété avec succès"
+
+msgid "Payment refunded via IPN by PayPlug"
+msgstr "Paiement remboursé via IPN par PayPlug"
+
+msgid "Order refunded"
+msgstr "Commande remboursée"
+
+msgid "The order %s has been refunded via IPN by PayPlug"
+msgstr "La Commande %s a été remboursée via IPN par PayPlug"
+
+msgid "Payment for order %s has been refunded"
+msgstr "Le paiement %s a été remboursé"
+
+msgid "<strong>Gateway disabled</strong> Please provide your PayPlug settings. %sClick here to configure%s "
+msgstr "<strong>Passerelle désactivée</strong> Vous devez indiquer vos paramètres PayPlug. %sCliquez ici pour la configuration%s"
+
+msgid "WooCommerce PayPlug"
+msgstr "WooCommerce PayPlug"
+
+msgid "WooPayPlug is a PayPlug payment gateway for WooCommerce"
+msgstr "WooPayPlug est la passerelle de paiement via PayPlug pour WooCommerce"
+
+msgid "Boris Colombier"
+msgstr "Boris Colombier"
+
+msgid "http://wba.fr/"
+msgstr "http://wba.fr/"
+
+msgid "Checking PayPlug settings..."
+msgstr "Vérification des paramètres PayPlug..."
+
+msgid "An error occurred while connecting to PayPlug."
+msgstr "Une erreur s'est produite durant la connexion avec PayPlug."
+
+msgid "Please check your PayPlug login and password."
+msgstr "Merci de vérifier votre identifiant et votre mot de passe PayPlug"
+
+msgid "PayPlug login"
+msgstr "Identifiant PayPlug"
+
+msgid "The email address used to log on to PayPlug."
+msgstr "L'adresse email utilisée pour vous identifier sur PayPlug"
+
+msgid "PayPlug password"
+msgstr "Mot de passe PayPlug"
+
+msgid "The password used to log on to PayPlug. This information is not saved."
+msgstr "Le mot de passe utilisé pour vous identifier sur PayPlug. Cette valeur n'est pas enregistrée."
+
+msgid "WooCommerce PayPlug Gateway requires <a href=\"http://php.net/manual/en/book.curl.php\" target=\"_blank\">curl for php</a> to work!"
+msgstr "WooCommerce PayPlug nécessite <a href=\"http://php.net/manual/en/book.curl.php\" target=\"_blank\">curl pour php</a> pour fonctionner !"
+
+msgid "PayPlug configuration"
+msgstr "Configuration PayPlug"
+
+msgid "Mark the order as ‘completed’"
+msgstr "Marquer la commande comme 'terminée'"
+
+msgid "Mark the order as ‘completed’ upon payment confirmation by PayPlug instead of ‘in progress’"
+msgstr "Marquer la commande comme 'terminée' après la confirmation de paiement par PayPlug à la place de 'en cours'"
+
+msgid "Use test mode"
+msgstr "Utiliser le mode de test"
+
+msgid "Use PayPlug in test mode. Payments will not be made."
+msgstr "Utiliser PayPlug en mode 'test', les paiements ne seront pas effectués."
+
+msgid "<span>Add online payment by bank card to your website in a matter of clicks.</span><br/><b>No fixed monthly fees.</b> No customer account required to make a payment.<br>"
+msgstr "<span>Intégrez le paiement en ligne par carte bancaire sur votre site en 1 minute.</span><br/><b>Sans frais fixes ni mensuels.</b> Votre client n'a pas besoin de compte pour payer.<br>"
+
+msgid "Create a free account"
+msgstr "Créer un compte gratuitement"
+
+msgid "Find out more about PayPlug"
+msgstr "En savoir plus sur PayPlug"
+
+msgid "Index my site"
+msgstr "Référencer mon site"
+
+msgid "Get help"
+msgstr "Obtenir de l'aide"
+
+msgid "Your server does not support cURL for php.<br>To configure the plugin, you need to log on to this <a href='https://www.payplug.fr/portal/ecommerce/autoconfig' target='_blank’>Payplug page</a> using your login and password.<br>Copy all of the code displayed on the page and paste it into the last ‘PayPlug Configuration’ field at the bottom of the form, leaving the login and password fields empty, and click submit.<br>Test the plugin by placing an order to ensure everything work smoothly."
+msgstr "Votre serveur n'intègre pas CURL pour PHP.<br>Pour configurer le plugin, vous devez vous connecter sur cette <a href='https://www.payplug.fr/portal/ecommerce/autoconfig' target='_blank'>page Payplug</a> en utilisant vos identifiant et mot de passe.<br>Copiez tout le code s'affichant sur la page et copiez le dans le dernier champ 'Configuration PayPlug' en bas du formulaire en laissant les champs identifiant et mot de passe vides puis validez.<br>Faites ensuite un test en passant une commande pour vous assurez que le plugin est bien fonctionnel."
+
+msgid "If you aren’t using your PayPlug login and password, run a test order to ensure PayPlug is functioning correctly."
+msgstr "Si vous n'utilisez pas vos identifiant et mot de passe Payplug, vous devez  passer une commande pour tester le bon fonctionnement de Payplug."
+
+msgid "An error has occurred. Please contact us at http://wba.fr"
+msgstr "Une erreur est survenue. Merci de nous contacter sur http://wba.fr"
+
+msgid "Use PayPlug in TEST (Sandbox) Mode"
+msgstr "Utiliser PayPlug en TEST (Sandbox) Mode"
+
+msgid "Use test mode to test transactions with no real payment required"
+msgstr "Utilisez le mode test pour tester les transactions sans faire de paiement réel"
+
+msgid "Unless otherwise specified at the top of the form, this field should not be used. It will be automatically filled in if no errors occur after having provided your PayPlug login and password.<br>In the event of any difficulties, use the ‘Get help’ button at the top of the page."
+msgstr "Ce champ ne doit pas être utilisé sauf indication contraire en haut du formulaire. Il sera rempli automatiquement si vous n'avez pas d'erreur à l'enregistrement après avoir indiqué vos identifiant et mot de passe Payplug.<br>En cas de problème, utilisez le bouton 'Obtenir de l'aide' en haut de la page."
