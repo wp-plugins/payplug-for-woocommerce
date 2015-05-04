@@ -65,7 +65,8 @@ Notre solution moderne et intuitive vous permet d’améliorer votre taux de con
 * Design moderne et épuré.
 * Détection automatique du type de carte.
 
-Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable###:###
+Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable :
+###.###
 * Affichez votre logo, votre police et vos couleurs.
 * Mettez la photo de fond qui vous convient.
 * Responsive pour mobiles et tablettes.
@@ -78,7 +79,8 @@ Marchands, inscrivez-vous en 1 minute, configurez notre module en quelques clics
 
 ### Des tarifs simples et transparents ###
 Avec le module PayPlug pour WooCommerce, ne payez que ce que vous devez ! Nos commissions descendent jusqu’à 0,8% + 0,25€, sans frais cachés. C’est tout simplement l’offre la plus intéressante du marché. 
-Nos tarifs, dégressifs, sont calibrés selon vos volumes de ventes et ne comprennent aucun frais cachés. Notre solution de paiement pour l’e-commerce est ###:###
+Nos tarifs, dégressifs, sont calibrés selon vos volumes de ventes et ne comprennent aucun frais cachés. Notre solution de paiement pour l’e-commerce est :
+###.###
 * Sans frais d’installation.
 * Sans engagement.
 * Sans abonnement. 
