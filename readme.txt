@@ -55,7 +55,7 @@ All transactions are carried out on payment pages secured by HTTPS. Card numbers
 Why wait any longer? Create your [free account](https://www.payplug.com/portal2/signup?origin=wpwc "free account") NOW on PayPlug 
 
 
-=Français=
+= Français =
 
 >Avec [PayPlug](https://www.payplug.com/fr?origin=wpwc "PayPlug"), le paiement en ligne n’a jamais été aussi simple ! Notre solution de paiement en ligne s’utilise sans contrat VAD et s’installe en quelques clics seulement. PayPlug a été élu meilleure solution de paiement 2014 aux E-commerce Awards et est soutenu par l’Union Européenne dans le cadre du programme Horizon 2020. Déjà 12000  marchands nous font confiance, rejoignez-les gratuitement!
 
