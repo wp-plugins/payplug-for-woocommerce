@@ -65,7 +65,7 @@ Notre solution moderne et intuitive vous permet d’améliorer votre taux de con
 * Design moderne et épuré.
 * Détection automatique du type de carte.
 
-###Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable:###
+#Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable:#
 * Affichez votre logo, votre police et vos couleurs.
 * Mettez la photo de fond qui vous convient.
 * Responsive pour mobiles et tablettes.
