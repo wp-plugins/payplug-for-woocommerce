@@ -60,12 +60,12 @@ Why wait any longer? Create your [free account](https://www.payplug.com/portal2/
 >Avec [PayPlug](https://www.payplug.com/fr?origin=wpwc "PayPlug"), le paiement en ligne n’a jamais été aussi simple ! Notre solution de paiement en ligne s’utilise sans contrat VAD et s’installe en quelques clics seulement. PayPlug a été élu meilleure solution de paiement 2014 aux E-commerce Awards et est soutenu par l’Union Européenne dans le cadre du programme Horizon 2020. Déjà 12000  marchands nous font confiance, rejoignez-les gratuitement!
 
 ### Avantages ###
-Notre solution moderne et intuitive vous permet d’améliorer votre taux de conversion grâce à des fonctionnalités et une ergonomie pensées pour le e-commerce.  Grâce à PayPlug ne perdez plus de ventes et simplifiez vos règlements en ligne :
+Notre solution moderne et intuitive vous permet d’améliorer votre taux de conversion grâce à des fonctionnalités et une ergonomie pensées pour le e-commerce.  Grâce à PayPlug ne perdez plus de ventes et simplifiez vos règlements en ligne ###:###
 * Paiement rapide sans inscription.
 * Design moderne et épuré.
 * Détection automatique du type de carte.
 
-#Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable:#
+Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable###:###
 * Affichez votre logo, votre police et vos couleurs.
 * Mettez la photo de fond qui vous convient.
 * Responsive pour mobiles et tablettes.
@@ -78,7 +78,7 @@ Marchands, inscrivez-vous en 1 minute, configurez notre module en quelques clics
 
 ### Des tarifs simples et transparents ###
 Avec le module PayPlug pour WooCommerce, ne payez que ce que vous devez ! Nos commissions descendent jusqu’à 0,8% + 0,25€, sans frais cachés. C’est tout simplement l’offre la plus intéressante du marché. 
-Nos tarifs, dégressifs, sont calibrés selon vos volumes de ventes et ne comprennent aucun frais cachés. Notre solution de paiement pour l’e-commerce est :
+Nos tarifs, dégressifs, sont calibrés selon vos volumes de ventes et ne comprennent aucun frais cachés. Notre solution de paiement pour l’e-commerce est ###:###
 * Sans frais d’installation.
 * Sans engagement.
 * Sans abonnement. 
