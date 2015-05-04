@@ -65,7 +65,7 @@ Notre solution moderne et intuitive vous permet d’améliorer votre taux de con
 * Design moderne et épuré.
 * Détection automatique du type de carte.
 
-Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable:
+###Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable:###
 * Affichez votre logo, votre police et vos couleurs.
 * Mettez la photo de fond qui vous convient.
 * Responsive pour mobiles et tablettes.
@@ -75,10 +75,6 @@ Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre p
 ### Simplicité d’utilisation ###
 Marchands, inscrivez-vous en 1 minute, configurez notre module en quelques clics et commencez à accepter la carte immédiatement. C’est sans engagement ni contrat VAD ! Notre interface, extrêmement intuitive,  a été pensée pour simplifier en profondeur l'administration de vos paiements tout en intégrant des fonctionnalités essentielles qui vous permettent de développer votre activité sereinement.
 
-### Quelques fonctionnalités PayPlug pour WooCommerce ###
-* Cartes acceptées : CB, Visa, MasterCard.
-* 3D Secure débrayable pour vous protéger contre la fraude.
-* Mise à jour automatique du statut des commandes.
 
 ### Des tarifs simples et transparents ###
 Avec le module PayPlug pour WooCommerce, ne payez que ce que vous devez ! Nos commissions descendent jusqu’à 0,8% + 0,25€, sans frais cachés. C’est tout simplement l’offre la plus intéressante du marché. 
