@@ -14,11 +14,13 @@ Accept credit cards with PayPlug on your WooCommerce store thanks to our secure 
 
 ### Benefits ###
 Our modern and intuitive solution allows you to improve your conversion rate with our functions and ergonomics specifically designed for e-commerce.  Thanks to PayPlug, you can simplify your online payments and no longer lose out on sales:
+### ###
 * Quick payment without registration.
 * Modern and sleek design.
 * Automatic detection of card type.
 
 Keep your customers loyal to your brand from the very outset with our 100% customisable payment page. 
+### ###
 * Display your own logo, font and colours.
 * Choose your own background photo.
 * Responsive to mobiles and tablets.
@@ -30,6 +32,7 @@ Retailers can register in just one minute, configure our module in only a few cl
 ### Simple and transparent rates ###
 With the PayPlug plugin for WooCommerce, you only pay for what you need. Our commission goes as low as 0.8 % +  0.25 € - without any hidden costs. To put it simply, this is the most interesting offer on the market. 
 Our rates and volume discounts are calibrated according to your sales volumes and do not include any hidden costs. Our e-commerce payment solution has:
+### ###
 * No installation costs.
 * No commitment.
 * No subscription.
@@ -61,13 +64,13 @@ Why wait any longer? Create your [free account](https://www.payplug.com/portal2/
 
 ### Avantages ###
 Notre solution moderne et intuitive vous permet d’améliorer votre taux de conversion grâce à des fonctionnalités et une ergonomie pensées pour le e-commerce.  Grâce à PayPlug ne perdez plus de ventes et simplifiez vos règlements en ligne :
-###->###
+### ###
 * Paiement rapide sans inscription.
 * Design moderne et épuré.
 * Détection automatique du type de carte.
 
 Gardez vos clients dans votre univers, et ce de bout en bout , grâce à notre page de paiement 100% personnalisable :
-###->###
+### ###
 * Affichez votre logo, votre police et vos couleurs.
 * Mettez la photo de fond qui vous convient.
 * Responsive pour mobiles et tablettes.
