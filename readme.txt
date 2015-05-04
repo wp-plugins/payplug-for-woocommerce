@@ -19,10 +19,10 @@ Our modern and intuitive solution allows you to improve your conversion rate wit
 * Automatic detection of card type.
 
 Keep your customers loyal to your brand from the very outset with our 100% customisable payment page. 
-* Display your own logo, font and colours *
-*Choose your own background photo*
-* Responsive to mobiles and tablets*
-*Enrich your brand identity *
+* Display your own logo, font and colours.
+* Choose your own background photo.
+* Responsive to mobiles and tablets.
+* Enrich your brand identity.
 
 ### Easy to use ###
 Retailers can register in just one minute, configure our module in only a few clicks, and begin to accept card payments immediately. No commitment or merchant account required. Our interface is extremely intuitive and has been designed to simplify the administration of your payments while integrating essential features that allow you to develop your business with confidence.
