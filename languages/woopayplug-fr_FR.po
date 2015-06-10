@@ -8,10 +8,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-04-11 15:24+0100\n"
+"PO-Revision-Date: 2015-06-10 10:39+0100\n"
 "Last-Translator: Boris Colombier <bc@wba.fr>\n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.7.4\n"
 "Language: fr_FR\n"
 
 msgid "The WooCommerce PayPlug Gateway requires the latest version of <a href=\"http://wordpress.org/extend/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> to work!"
@@ -161,8 +161,8 @@ msgstr "Votre serveur n'intègre pas CURL pour PHP.<br>Pour configurer le plugin
 msgid "If you aren’t using your PayPlug login and password, run a test order to ensure PayPlug is functioning correctly."
 msgstr "Si vous n'utilisez pas vos identifiant et mot de passe Payplug, vous devez  passer une commande pour tester le bon fonctionnement de Payplug."
 
-msgid "An error has occurred. Please contact us at http://wba.fr"
-msgstr "Une erreur est survenue. Merci de nous contacter sur http://wba.fr"
+msgid "An error has occurred. Please try again or contact us at support@payplug.com"
+msgstr "Une erreur est survenue. Merci de réessayer ou de nous contacter sur support@payplug.com"
 
 msgid "Use PayPlug in TEST (Sandbox) Mode"
 msgstr "Utiliser PayPlug en TEST (Sandbox) Mode"

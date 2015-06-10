@@ -168,7 +168,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
                   'warning_manual_setting' => __( "If you aren’t using your PayPlug login and password, run a test order to ensure PayPlug is functioning correctly.", 'woopayplug' ),
                   'error_connecting' => __( 'An error occurred while connecting to PayPlug.', 'woopayplug' ),
                   'error_login' => __( 'Please check your PayPlug login and password.', 'woopayplug' ),
-                  'error_unknown' => __( 'An error has occurred. Please contact us at http://wba.fr', 'woopayplug' ),
+                  'error_unknown' => __( 'An error has occurred. Please try again or contact us at support@payplug.com', 'woopayplug' ),
                   'url' => site_url().'/?payplug=parameters'
                 );
                 wp_localize_script( 'payplug-script', 'PayPlugJSParams', $js_params );
