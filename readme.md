@@ -1,11 +1,11 @@
 ### Plugin Name ###
-Contributors: PayPlug
-Tags: WooCommerce, Payment, Gateway, Credit Cards, Shopping Cart, PayPlug, Extension
-Requires at least: 3.0.1
-Tested up to: 4.3.1
-Stable tag: 1.4.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: PayPlug
+* Tags: WooCommerce, Payment, Gateway, Credit Cards, Shopping Cart, PayPlug, Extension
+* Requires at least: 3.0.1
+* Tested up to: 4.3.1
+* Stable tag: 1.4.1
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Accept credit cards with PayPlug on your WooCommerce store thanks to our secure payment gateway.
 
@@ -132,19 +132,19 @@ N’attendez plus ! Crééz [votre compte](https://www.payplug.com/portal2/signu
 
 ###English###
 
-* 1: Create a [free PayPlug account](http://www.payplug.com/portal2/signup?origin=wpwc "free PayPlug account")
-* 2: Install the plugin via FTP or the Wordpress manager
-* 3: Activate the plugin through the 'Plugins' menu in WordPress
-* 4: Go to the Woocommerce settings and to the Payment Gateways tab
-* 5: Click on PayPlug and set your PayPlug login and password
+1. Create a [free PayPlug account](http://www.payplug.com/portal2/signup?origin=wpwc "free PayPlug account")
+2. Install the plugin via FTP or the Wordpress manager
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Go to the Woocommerce settings and to the Payment Gateways tab
+5. Click on PayPlug and set your PayPlug login and password
 
 ###Français###
 
-* 1: Crééz gratuitement [compte PayPlug](http://www.payplug.com/portal2/signup?origin=wpwc "compte PayPlug")
-* 2: Installez le module depuis votre back office WordPress ou via votre FTP
-* 3: Activez le module dans la section 'Extension' de votre back office WordPress
-* 4: Dans les paramètres WooCommerce, accédez à l'onglet 'Commande'
-* 5: Cliquez sur PayPlug et saisissez votre identifiant et mot de passe PayPlug
+1. Crééz gratuitement [compte PayPlug](http://www.payplug.com/portal2/signup?origin=wpwc "compte PayPlug")
+2. Installez le module depuis votre back office WordPress ou via votre FTP
+3. Activez le module dans la section 'Extension' de votre back office WordPress
+4. Dans les paramètres WooCommerce, accédez à l'onglet 'Commande'
+5. Cliquez sur PayPlug et saisissez votre identifiant et mot de passe PayPlug
 
 
 ## Screenshots ##
@@ -155,5 +155,5 @@ N’attendez plus ! Crééz [votre compte](https://www.payplug.com/portal2/signu
 ## Changelog ##
 
 
-# 1.0 #
+### 1.0 ###
 * First version
